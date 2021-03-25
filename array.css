@@ -1,0 +1,11 @@
+h1 {
+    color: #db7093;
+    font-style: italic;
+}
+
+.arrayMaxmin {
+    border: 5px double #0000cd;
+    padding: 15px;
+    color: black;
+    font-size: 20px;
+}
